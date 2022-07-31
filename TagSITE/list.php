@@ -1,4 +1,4 @@
-<?
+<?php
 
 $pdo = new PDO('mysql:host=HOST;dbname=DB_NAME;charset=utf8', 'USERNAME', 'PASSWORD');
 
